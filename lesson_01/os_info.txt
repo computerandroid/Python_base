@@ -1,3 +1,3 @@
 OS info is 
-uname_result(system='Darwin', node='MacBook-Pro-Alexander.local', release='22.5.0', version='Darwin Kernel Version 22.5.0: Mon Apr 24 20:51:50 PDT 2023; root:xnu-8796.121.2~5/RELEASE_X86_64', machine='x86_64') 
+uname_result(system='Darwin', node='MacBook-Pro-Alexander.local', release='22.6.0', version='Darwin Kernel Version 22.6.0: Wed Jul  5 22:21:56 PDT 2023; root:xnu-8796.141.3~6/RELEASE_X86_64', machine='x86_64') 
 Python version is 3.11.4 (v3.11.4:d2340ef257, Jun  6 2023, 19:15:51) [Clang 13.0.0 (clang-1300.0.29.30)] ('64bit', '')
